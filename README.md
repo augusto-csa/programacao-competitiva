@@ -19,3 +19,13 @@ Apesar de ter começado por causa da disciplina, peguei gosto pela área e vou c
 * Linguagem: C++
 * Plataforma principal: Codeforces
 * Meu perfil: **[Augusto-Cesar](https://codeforces.com/profile/Augusto-Cesar)**
+
+## Estrutura do Repositório
+
+As pastas estão organizadas categorizando as soluções de acordo com o nível de dificuldade (rating) e os títulos do Codeforces:
+
+* `800-900` (Newbie)
+* `1000-1100` (Pupil)
+* `1200-1300` (Apprentice)
+* `1400-1500` (Specialist)
+* E assim por diante, acompanhando a evolução dos treinos.
