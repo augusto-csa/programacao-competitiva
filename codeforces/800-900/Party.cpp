@@ -48,9 +48,7 @@ int main() {
     
     for(auto a : v) bfs(a);
 
-    set<ll> s(dist.begin(), dist.end());
-    
-    cout << s.size();
+    cout << *max_element(dist.begin(), dist.end())+1;
     
     return 0;
 }
